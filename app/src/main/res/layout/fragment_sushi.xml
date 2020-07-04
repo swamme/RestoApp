@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Ayo beli sushi"
+        android:text="ini Halaman Sushi"
         android:textSize="20sp"
         android:textAlignment="center"
         android:gravity="center"
